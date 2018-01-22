@@ -8,15 +8,14 @@
 Do you have an **example, library or game** that you think would be a great addition to the GitHub? That's great! We'd love it if you wanted to submit it to this GitHub organisation.
 
 &nbsp;
-<p align="center">
-_**What we're looking for in submissions are:**_
+<h3 align="center">What we're looking for in submissions are:</h3>
 
 :one: Examples of accessible, time-tested GameMaker techniques
 
 :two: Well-written and well-commented examples of novel and interesting techniques
 
 :three: Finished game project files that demonstrate novel and interesting techniques
-</p>
+
 &nbsp;
 
 **Submissions must be made to Sidorakh via a DM on Discord.** The easiest way to get in touch is to **join our server**
