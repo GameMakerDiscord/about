@@ -30,11 +30,11 @@ Do you have an **example, library or game** that you think would be a great addi
 
 :three: **The submission is accepted** and you will be allowed to **transfer the repo** to the GitHub organisation.
 
-If that was a little hard to follow, don't worry, we have a **handy flowchart** for you here: https://i.imgur.com/JrkiRLd.png
+If that was a little hard to follow, don't worry, we have a **handy flowchart** at the bottom of this document.
 
 &nbsp;
 
-_**Submissions must fulfill all questions on the following checklist:**_
+<h3 align="center">What we're looking for in submissions are:</h3>
 
 :ballot_box_with_check: Is your submission novel work that demonstrates a new technique, or is it a clear example of an old technique?
 
@@ -53,3 +53,5 @@ _**Submissions must fulfill all questions on the following checklist:**_
 :ballot_box_with_check: Does your repo have a README.md file with sufficient detail?
 
 :ballot_box_with_check: Have you properly credited other people's assets and input?
+
+<p align="center"><img src="https://raw.githubusercontent.com/GameMakerDiscord/about/master/flowchart.png" style="display:block; margin:auto; width:300px"></p>
