@@ -36,7 +36,7 @@ If that was a little hard to follow, don't worry, we have a **handy flowchart** 
 
 &nbsp;
 
-<h3 align="center">Your project must meet all of the following criteria</h3>
+<h3 align="center">Your project must meet all of the following criteria:</h3>
 
 :ballot_box_with_check: Is your submission novel work that demonstrates a new technique, or is it a clear example of an old technique?
 
@@ -55,5 +55,7 @@ If that was a little hard to follow, don't worry, we have a **handy flowchart** 
 :ballot_box_with_check: Does your repo have a README.md file with sufficient detail?
 
 :ballot_box_with_check: Have you properly credited other people's assets and input?
+
+&nbsp;
 
 <p align="center"><img src="https://raw.githubusercontent.com/GameMakerDiscord/about/master/flowchart.png" style="display:block; margin:auto; width:300px"></p>
