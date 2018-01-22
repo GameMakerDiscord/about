@@ -58,4 +58,4 @@ If that was a little hard to follow, don't worry, we have a **handy flowchart** 
 
 &nbsp;
 
-<p align="center"><img src="https://raw.githubusercontent.com/GameMakerDiscord/about/master/flowchart.png" style="display:block; margin:auto; width:300px"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/GameMakerDiscord/about/master/flowchart.png"></p>
