@@ -3,9 +3,9 @@
 <h3 align="center">https://discord.gg/By6u9pC</h3>
 <h3 align="center">Logo by @stefanvonranda</h3>
 
-Hi, and thanks for stopping by. This GitHub organisation is run by the admins of the /r/GameMaker Discord server. The manager of this organisation, and the primary point of contact for enquiries, is Sidorakh (Sidorakh#8297 / @Sidorakh).
+**Hi, and thanks for stopping by.** This GitHub organisation is run by the admins of the /r/GameMaker Discord server. The manager of this organisation, and the primary **point of contact** for enquiries, is Sidorakh (Sidorakh#8297 / @Sidorakh).
 
-Do you have an example, library or game that you think would be a great addition to the GitHub? That's great! We'd love it if you wanted to submit it to this GitHub organisation.
+Do you have an **example, library or game** that you think would be a great addition to the GitHub? That's great! We'd love it if you wanted to submit it to this GitHub organisation.
 
 &nbsp;
 
@@ -19,8 +19,8 @@ Do you have an example, library or game that you think would be a great addition
 
 &nbsp;
 
-Submissions must be made to Sidorakh via a DM on Discord. The easiest way to get in touch is to [join our server]
-(https://discord.gg/By6u9pC). Once you have sent your submission directly to Sidorakh, we will review the submission, and one of three things will happen:
+**Submissions must be made to Sidorakh via a DM on Discord.** The easiest way to get in touch is to **join our server**
+(https://discord.gg/By6u9pC). Once you have sent your submission directly to Sidorakh, **we will review the submission**, and one of three things will happen:
 
 :one: The submission is declined because it doesn't fit with the guidelines or checklist, or isn't a good fit for this GitHub organisation overall. 
 
@@ -28,9 +28,9 @@ Submissions must be made to Sidorakh via a DM on Discord. The easiest way to get
 
 :three: The submission is accepted.
 
-If the submission is accepted, then you will be allowed to transfer the repo to the GitHub organisation.
+If the submission is accepted, then you will be allowed to **transfer the repo** to the GitHub organisation.
 
-If that was a little hard to follow, don't worry, we have a handy flowchart for you here: https://i.imgur.com/JrkiRLd.png
+If that was a little hard to follow, don't worry, we have a **handy flowchart** for you here: https://i.imgur.com/JrkiRLd.png
 
 &nbsp;
 
