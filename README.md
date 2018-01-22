@@ -9,32 +9,30 @@ Do you have an **example, library or game** that you think would be a great addi
 
 &nbsp;
 
-**What we're looking for in submissions are:**
+_**What we're looking for in submissions are:**_
 
-:one: Examples of accessible, time-tested GameMaker techniques
+**:one: Examples of accessible, time-tested GameMaker techniques**
 
-:two: Well-written and well-commented examples of novel and interesting techniques
+**:two: Well-written and well-commented examples of novel and interesting techniques**
 
-:three: Finished game project files that demonstrate novel and interesting techniques
+**:three: Finished game project files that demonstrate novel and interesting techniques**
 
 &nbsp;
 
 **Submissions must be made to Sidorakh via a DM on Discord.** The easiest way to get in touch is to **join our server**
 (https://discord.gg/By6u9pC). Once you have sent your submission directly to Sidorakh, **we will review the submission**, and one of three things will happen:
 
-:one: The submission is declined because it doesn't fit with the guidelines or checklist, or isn't a good fit for this GitHub organisation overall. 
+:one: **The submission is declined** because it doesn't fit with the guidelines or checklist, or isn't a good fit for this GitHub organisation overall. 
 
-:two: Modifications to the submission are requested. This would happen when a submission is a good fit for the GitHub, but doesn't meet the guidelines.
+:two: **Modifications to the submission are requested.** This would happen when a submission is a good fit for the GitHub, but doesn't meet the guidelines.
 
-:three: The submission is accepted.
-
-If the submission is accepted, then you will be allowed to **transfer the repo** to the GitHub organisation.
+:three: **The submission is accepted** and you will be allowed to **transfer the repo** to the GitHub organisation.
 
 If that was a little hard to follow, don't worry, we have a **handy flowchart** for you here: https://i.imgur.com/JrkiRLd.png
 
 &nbsp;
 
-**Submissions must fulfill all questions on the following checklist:**
+_**Submissions must fulfill all questions on the following checklist:**_
 
 :ballot_box_with_check: Is your submission novel work that demonstrates a new technique, or is it a clear example of an old technique?
 
