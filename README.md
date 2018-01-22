@@ -5,9 +5,9 @@
 
 &nbsp;
 
-**Hi, and thanks for stopping by.** This GitHub organisation is run by the admins of the /r/GameMaker Discord server. The manager of this organisation, and the primary **point of contact** for enquiries, is Sidorakh (Sidorakh#8297 / @Sidorakh).
+**Hi, and thanks for stopping by.** This GitHub organisation is run by the admins of the /r/GameMaker Discord server. The manager of this organisation, and the primary **point of contact** for enquiries, is **Sidorakh** (Sidorakh#8297 / @Sidorakh).
 
-Do you have an **example, library or game** that you think would be a great addition to the GitHub? That's great! We'd love it if you wanted to submit it to this GitHub organisation.
+Do you have an **example, library, or game** that you think would be a great addition to the GitHub? That's great! We'd love it if you wanted to submit it to this GitHub organisation.
 
 &nbsp;
 
