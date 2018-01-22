@@ -21,6 +21,8 @@ Do you have an **example, library or game** that you think would be a great addi
 
 &nbsp;
 
+<h3 align="center">I'm interested, how do I submit a project?</h3>
+
 **Submissions must be made to Sidorakh via a DM on Discord.** The easiest way to get in touch is to **join our server**
 (https://discord.gg/By6u9pC). Once you have sent your submission directly to Sidorakh, **we will review the submission**, and one of three things will happen:
 
@@ -34,7 +36,7 @@ If that was a little hard to follow, don't worry, we have a **handy flowchart** 
 
 &nbsp;
 
-<h3 align="center">What we're looking for in submissions are:</h3>
+<h3 align="center">Your project must meet all of the following criteria</h3>
 
 :ballot_box_with_check: Is your submission novel work that demonstrates a new technique, or is it a clear example of an old technique?
 
