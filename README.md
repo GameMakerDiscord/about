@@ -42,7 +42,7 @@ If that was a little hard to follow, don't worry, we have a **handy flowchart** 
 
 :ballot_box_with_check: Is your submission made in GMS1 or GMS2?
 
-:ballot_box_with_check: Is your submission a GitHub repo, or a .yyz/.gmz file if you're submitting a finished game?
+:ballot_box_with_check: Is your submission a GitHub repo containing a GMS1 or GMS2 project, or a .yyz/.gmz file if you're submitting a finished game?
 
 :ballot_box_with_check: Is your submission your own work?
 
